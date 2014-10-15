@@ -16,6 +16,10 @@ I am sorry again for the workaround, i need some serious javascript courses :D
 
 And for better colors, you can use this theme:
 
+![Here is some](https://cloud.githubusercontent.com/assets/2527234/4639059/5a77a800-5405-11e4-9c58-703441d977ea.jpg)
+
+Get it here:
+
 https://github.com/abdelouahabb/azrem
 
 Edit

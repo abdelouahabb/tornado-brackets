@@ -14,6 +14,10 @@ Please, since i am a bad programmer, i need an update to make it work independen
 
 I am sorry again for the workaround, i need some serious javascript courses :D
 
+And for better colors, you can use this theme:
+
+https://github.com/abdelouahabb/azrem
+
 Edit
 ================
 As 14/10/2014, [Tornado Templates is supported by CodeMirror][2], so, the next build of brackets will include this version, that means that you will be compatible with Brackets >= 0.45.
